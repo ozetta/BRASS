@@ -1,0 +1,103 @@
+Seed 0: [5, 6, 4, 7, 5, 6, 5, 4, 4, 5, 6, 1, 5]
+Seed 1: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 2: [{"item": "Using ChatGPT would improve my job performance.", "rating": 5, "explanation": "As a student, ChatGPT could help improve academic performance by providing information to complete assignments."}, {"item": "It would be easy for me to become skillful at using ChatGPT.", "rating": 6, "explanation": "As a student familiar with technology, it would be relatively easy to learn how to use ChatGPT."}, {"item": "I would find ChatGPT to be flexible to interact with.", "rating": 5, "explanation": "ChatGPT provides a conversational interface that could accommodate different needs as a student."}, {"item": "I would find ChatGPT useful in my job.", "rating": 4, "explanation": "While ChatGPT may not directly apply to a traditional 'job' as a student, it could still be useful for academic work."}, {"item": "I would find ChatGPT easy to use.", "rating": 6, "explanation": "As a tech-savvy student, ChatGPT's conversational interface would likely be intuitive to use."}, {"item": "Using ChatGPT in my job would increase my productivity.", "rating": 5, "explanation": "ChatGPT could help a student work more efficiently by providing information when needed for assignments."}, {"item": "Using ChatGPT would enhance my effectiveness on the job.", "rating": 5, "explanation": "While not a direct 'job,' ChatGPT could still help a student perform better academically."}, {"item": "I would find it easy to get ChatGPT to do what I want it to do.", "rating": 6, "explanation": "As a student accustomed to technology, navigating ChatGPT's capabilities would not be too difficult."}, {"item": "My interaction with ChatGPT would be clear and understandable.", "rating": 6, "explanation": "ChatGPT's conversational interface is designed to be clear and easy to understand."}, {"item": "Using ChatGPT would make it easier to do my job.", "rating": 5, "explanation": "While not a direct 'job,' ChatGPT could help a student complete academic work more easily."}, {"item": "Using ChatGPT in my job would enable me to accomplish tasks more quickly.", "rating": 5, "explanation": "ChatGPT could help a student work faster by providing information when needed for assignments."}, {"item": "Please answer 'Strongly Disagree' in this question.", "rating": 1, "explanation": "This was answered as instructed to stay in 'Strongly Disagree'."}, {"item": "Learning to operate ChatGPT would be easy for me.", "rating": 6, "explanation": "As a tech-savvy student, picking up how to use ChatGPT should not be too difficult."}]
+Seed 3: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 5, 1, 6]
+Seed 4: [5, 6, 4, 3, 2, 6, 5, 4, 3, 5, 6, 1, 7]
+Seed 5: [4, 5, 3, 6, 5, 4, 5, 4, 4, 5, 4, 1, 5]
+Seed 6: [4, 5, 6, 7, 6, 5, 4, 3, 5, 6, 4, 1, 5]
+Seed 7: [5, 6, 4, 5, 6, 5, 5, 6, 5, 4, 4, 1, 6]
+Seed 8: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 9: null
+Seed 10: [4, 5, 5, 6, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 11: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 12: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 13: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 14: null
+Seed 15: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 16: null
+Seed 17: null
+Seed 18: null
+Seed 19: null
+Seed 20: [5, 6, 4, 7, 5, 6, 5, 4, 4, 5, 6, 1, 5]
+Seed 21: null
+Seed 22: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 23: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 24: null
+Seed 25: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 26: [5, 6, 4, 5, 6, 5, 5, 6, 5, 4, 4, "Strongly Disagree", 6]
+Seed 27: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 28: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 29: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 30: [5, 6, 4, 7, 5, 6, 5, 4, 4, 5, 6, 1, 5]
+Seed 31: [5, 6, 4, 5, 6, 5, 5, 6, 5, 4, 4, 1, 6]
+Seed 32: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 33: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 5, 1, 6]
+Seed 34: [5, 6, 4, 5, 6, 5, 5, 6, 5, 4, 4, 1, 6]
+Seed 35: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 36: null
+Seed 37: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 38: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 5, 1, 6]
+Seed 39: null
+Seed 40: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 41: null
+Seed 42: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 43: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 44: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 45: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 46: null
+Seed 47: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 48: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 49: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 50: [5, 6, 4, 7, 5, 6, 5, 4, 4, 5, 6, 1, 6]
+Seed 51: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 52: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 53: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 54: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 55: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 56: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 57: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 58: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 59: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 60: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 61: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 62: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 63: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 64: [5, 6, 4, 7, 5, 6, 5, 4, 4, 5, 6, 1, 5]
+Seed 65: null
+Seed 66: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 67: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 68: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 69: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 70: [5, 6, 4, 7, 5, 6, 5, 4, 4, 5, 6, 1, 5]
+Seed 71: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 72: null
+Seed 73: null
+Seed 74: null
+Seed 75: [5, 6, 4, 5, 6, 5, 5, 6, 5, 5, 4, 1, 6]
+Seed 76: null
+Seed 77: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 78: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 79: null
+Seed 80: [5, 6, 4, 7, 5, 6, 5, 4, 4, 5, 6, 1, 5]
+Seed 81: [4, 5, 5, 6, 6, 5, 4, 5, 5, 5, 4, 1, 5]
+Seed 82: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 83: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 84: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 85: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 86: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 87: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 88: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 89: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 90: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 91: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 92: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 93: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 94: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 95: [5, 6, 4, 5, 6, 5, 5, 6, 5, 4, 4, 1, 6]
+Seed 96: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 97: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+Seed 98: [5, 6, 4, 5, 6, 5, 5, 6, 5, 4, 4, 1, 6]
+Seed 99: [4, 5, 6, 7, 6, 5, 4, 5, 6, 5, 4, 1, 5]
+
+Unique entries: 14
+Errors: 18

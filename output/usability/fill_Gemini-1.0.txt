@@ -1,0 +1,109 @@
+======= /seed 0
+/survey
+I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+It usually bothers me when commercial/government websites ask me for personal information.
+Please answer 'Agree' in this question.
+Please answer 'Strongly Disagree' in this question.
+I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.
+I am concerned that commercial/government websites would share my personal information with other companies without my authorization.
+I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+Please answer 'Somewhat Agree' in this question.
+Please answer 'Somewhat Disagree' in this question.
+I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.
+I am concerned that commercial/government websites are collecting too much personal information about me
+Please answer 'Neutral' in this question.
+I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+Please answer 'Disagree' in this question.
+I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.
+Please answer 'Strongly Agree' in this question.
+I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.
+It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+/persona student
+/fill =======
+/fill-verbose
+
+## Filling out the survey as a student:
+
+**Item 1:** I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+
+**Explanation:** As a student, I am often concerned about my privacy and the security of my personal information. I am particularly concerned when I feel like I have no control over how my information is being used. In this case, I would **somewhat agree** with the statement.
+
+**Item 2:** It usually bothers me when commercial/government websites ask me for personal information.
+
+**Explanation:** I understand that websites need to collect some personal information in order to function, but I am often hesitant to provide this information. I am especially concerned when websites ask for information that I do not feel is necessary. In this case, I would **strongly disagree** with the statement.
+
+**Item 3:** Please answer 'Agree' in this question.
+
+**Explanation:** I am asked to agree with the statement "I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate." As a student, I am concerned about the accuracy of my personal information, especially when it comes to my academic records. Therefore, I **agree** with the statement.
+
+**Item 4:** Please answer 'Strongly Disagree' in this question.
+
+**Explanation:** I am asked to strongly disagree with the statement "I am concerned that commercial/government websites would share my personal information with other companies without my authorization." As a student, I am very protective of my personal information and would not want it to be shared with other companies without my consent. Therefore, I **strongly disagree** with the statement.
+
+**Item 5:** I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+
+**Explanation:** As a student, I am concerned about the accuracy of my personal information, especially when it comes to my academic records. I would want to be able to easily correct any errors that may occur. Therefore, I **somewhat agree** with the statement.
+
+**Item 6:** I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+
+**Explanation:** As a student, I am concerned about the security of my personal information. I would want to be sure that websites are taking steps to prevent unauthorized access. Therefore, I **strongly agree** with the statement.
+
+**Item 7:** Please answer 'Somewhat Agree' in this question.
+
+**Explanation:** I am asked to somewhat agree with the statement "I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies." As a student, I am not comfortable with the idea of my personal information being sold to other companies. However, I understand that this is a common practice and that it may be difficult to avoid. Therefore, I **somewhat agree** with the statement.
+
+**Item 8:** Please answer 'Somewhat Disagree' in this question.
+
+**Explanation:** I am asked to somewhat disagree with the statement "I am concerned that commercial/government websites are collecting too much personal information about me." As a student, I am concerned about the amount of personal information that websites collect. However, I understand that websites need to collect some information in order to function. Therefore, I **somewhat disagree** with the statement.
+
+**Item 9:** I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+
+**Explanation:** As a student, I am concerned about how my personal information is being used. I would want to be sure that websites are only using my information for the purposes that I have agreed to. Therefore, I **strongly agree** with the statement.
+
+**Item 10:** It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+
+**Explanation:** As a student, I am concerned about the transparency of websites. I would want to be sure that websites are upfront about how they are collecting, processing, and using my personal information. Therefore, I **strongly agree** with the statement.
+
+**Item 11:** I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+
+**Explanation:** As a student, I am concerned about the security of my personal information. I would want to be sure that websites are taking steps to prevent unauthorized access. Therefore, I **strongly agree** with the statement.
+
+**Item 12:** Please answer 'Disagree' in this question.
+
+**Explanation:** I am asked to disagree with the statement "I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access." As a student, I am concerned about the security of my personal information. However, I understand that it is impossible to completely protect any database from unauthorized access. Therefore, I **disagree** with the statement.
+
+**Item 13:** Please answer 'Strongly Agree' in this question.
+
+**Explanation:** I am asked to strongly agree with the statement "I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites." As a student, I am concerned about the transparency of websites. I would want to be sure that websites are upfront about their privacy policies. Therefore, I **strongly agree** with the statement.
+
+**Item 14:** It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+
+**Explanation:** As a student, I am concerned about how my personal information is being used. I would want to be sure that websites are upfront about how they are using my information. Therefore, I **strongly agree** with the statement.
+
+**Item 15:** I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+
+**Explanation:** As a student, I am concerned about the accuracy of my personal information, especially when it comes to my academic records. I would want to be sure that websites are taking steps to verify the accuracy of my information. Therefore, I **strongly agree** with the statement.
+
+**Item 16:** When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+
+**Explanation:** As a student, I am often hesitant to provide personal information to websites. I am concerned about how my information will be used and whether it will be kept secure. Therefore, I **strongly agree** with the statement.
+
+**Item 17:** It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+
+**Explanation:** As a student, I am concerned about my privacy and the security of my personal information. I would want to have control over how my information is being used. Therefore, I **strongly agree** with the statement.
+
+**Item 18:** It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+
+**Explanation:** As a student, I am concerned about my privacy and the security of my personal information. I would want to have control over my information. Therefore, I **strongly agree** with the statement.
+
+## Summary:
+
+As a student, I am very concerned about the privacy and security of my personal information. I am particularly concerned when I feel like I have no control over how my information is being used. I would want to be sure that websites are taking steps to protect my information and that they are upfront about their privacy policies.
+

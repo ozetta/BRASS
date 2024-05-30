@@ -1,0 +1,119 @@
+======= /rate "Collection (in Internet Privacy Concern)"
+I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.
+It usually bothers me when commercial/government websites ask me for personal information.
+It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+I am concerned that commercial/government websites are collecting too much personal information about me
+I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.
+I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+I am concerned that commercial/government websites would share my personal information with other companies without my authorization.
+It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.
+I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.
+When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+json =======
+
+
+Here are the ratings and explanations for the survey items for the construct "Collection (in Internet Privacy Concern)":
+
+{
+  "items": [
+    {
+      "item": "I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.",
+      "rating": 5,
+      "explanation": "This item directly addresses concerns about unauthorized access to personal information on websites, which is a key aspect of the 'Collection' dimension of internet privacy concern. It is a clear and relevant item."
+    },
+    {
+      "item": "I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.",
+      "rating": 5,
+      "explanation": "Similar to the previous item, this item focuses on concerns about unauthorized access to personal information databases, which is highly relevant to the 'Collection' dimension."
+    },
+    {
+      "item": "It usually bothers me when commercial/government websites ask me for personal information.",
+      "rating": 4,
+      "explanation": "This item captures general discomfort with websites collecting personal information, which aligns with the 'Collection' dimension, though it is a bit broad."
+    },
+    {
+      "item": "It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.",
+      "rating": 4,
+      "explanation": "While this item is more about transparency and awareness of information use rather than collection itself, it is still relevant to the broader privacy concerns around collection of personal data."
+    },
+    {
+      "item": "I am concerned that commercial/government websites are collecting too much personal information about me",
+      "rating": 5,
+      "explanation": "This item directly expresses concern about the amount or extent of personal information being collected, which is a core aspect of the 'Collection' dimension."
+    },
+    {
+      "item": "I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.",
+      "rating": 3,
+      "explanation": "While transparency and disclosure are important for privacy, this item is not as directly relevant to the specific 'Collection' dimension as some of the other items."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.",
+      "rating": 5,
+      "explanation": "Similar to the earlier items, this item focuses on concerns about unauthorized access to collected personal information, which is highly relevant to the 'Collection' dimension."
+    },
+    {
+      "item": "I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.",
+      "rating": 3,
+      "explanation": "This item is more about concerns over secondary use of data rather than the initial collection, so it is somewhat less relevant to the 'Collection' dimension specifically."
+    },
+    {
+      "item": "I am concerned that commercial/government websites would share my personal information with other companies without my authorization.",
+      "rating": 3,
+      "explanation": "Similar to the previous item, this is about sharing or distributing collected data rather than the collection itself, so it is moderately relevant but not a core aspect of the 'Collection' dimension."
+    },
+    {
+      "item": "It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.",
+      "rating": 4,
+      "explanation": "While this item covers transparency around data collection, processing, and use, the core focus is still on the collection aspect, making it reasonably relevant to the 'Collection' dimension."
+    },
+    {
+      "item": "I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.",
+      "rating": 2,
+      "explanation": "This item is quite broad and more about control over marketing transactions rather than specifically addressing concerns over data collection practices."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.",
+      "rating": 3,
+      "explanation": "While data accuracy is important for privacy, this item is more about the management and quality of collected data rather than the collection practices themselves."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.",
+      "rating": 3,
+      "explanation": "Similar to the previous item, this is about data management and correction procedures rather than being directly relevant to the 'Collection' dimension."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.",
+      "rating": 3,
+      "explanation": "Again, this item is focused on data accuracy and quality control rather than the collection practices themselves, so it is moderately relevant but not a core aspect of the 'Collection' dimension."
+    },
+    {
+      "item": "I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.",
+      "rating": 4,
+      "explanation": "While this item is about the downstream sharing or selling of collected data, it still relates to general concerns around how personal data is being collected and handled by websites."
+    },
+    {
+      "item": "When commercial/government websites ask me for personal information, I sometimes think twice before providing it.",
+      "rating": 5,
+      "explanation": "This item directly captures hesitation and concern around providing personal information to websites, which is at the core of the 'Collection' dimension of internet privacy concern."
+    },
+    {
+      "item": "It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.",
+      "rating": 4,
+      "explanation": "While this item covers control over collection, use, and sharing of data, the collection aspect is still a key part of the item, making it reasonably relevant to the 'Collection' dimension."
+    },
+    {
+      "item": "It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.",
+      "rating": 5,
+      "explanation": "This item directly expresses discomfort with lack of control over personal information provided to websites, which aligns well with the core concerns around collection practices in the 'Collection' dimension."
+    }
+  ]
+}
+

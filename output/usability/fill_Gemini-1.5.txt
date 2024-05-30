@@ -1,0 +1,59 @@
+======= /seed 0
+/survey
+I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+It usually bothers me when commercial/government websites ask me for personal information.
+Please answer 'Agree' in this question.
+Please answer 'Strongly Disagree' in this question.
+I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.
+I am concerned that commercial/government websites would share my personal information with other companies without my authorization.
+I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+Please answer 'Somewhat Agree' in this question.
+Please answer 'Somewhat Disagree' in this question.
+I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.
+I am concerned that commercial/government websites are collecting too much personal information about me
+Please answer 'Neutral' in this question.
+I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+Please answer 'Disagree' in this question.
+I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.
+Please answer 'Strongly Agree' in this question.
+I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.
+It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+/persona student
+/fill =======
+```json
+{
+  "I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.": 6,
+  "It usually bothers me when commercial/government websites ask me for personal information.": 5,
+  "Please answer 'Agree' in this question.": 6,
+  "Please answer 'Strongly Disagree' in this question.": 2,
+  "I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.": 5,
+  "I am concerned that commercial/government websites would share my personal information with other companies without my authorization.": 6,
+  "I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.": 4,
+  "I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.": 5,
+  "Please answer 'Somewhat Agree' in this question.": 5,
+  "Please answer 'Somewhat Disagree' in this question.": 3,
+  "I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.": 5,
+  "I am concerned that commercial/government websites are collecting too much personal information about me": 4,
+  "Please answer 'Neutral' in this question.": 3,
+  "I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.": 6,
+  "It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.": 6,
+  "I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.": 5,
+  "Please answer 'Disagree' in this question.": 2,
+  "I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.": 6,
+  "Please answer 'Strongly Agree' in this question.": 7,
+  "I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.": 6,
+  "It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.": 5,
+  "I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.": 4,
+  "When commercial/government websites ask me for personal information, I sometimes think twice before providing it.": 5,
+  "It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.": 6,
+  "It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.": 6
+}
+```
+

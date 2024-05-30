@@ -1,0 +1,118 @@
+======= /rate "Collection (in Internet Privacy Concern)"
+I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.
+It usually bothers me when commercial/government websites ask me for personal information.
+It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+I am concerned that commercial/government websites are collecting too much personal information about me
+I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.
+I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+I am concerned that commercial/government websites would share my personal information with other companies without my authorization.
+It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.
+I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.
+When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+json =======
+
+
+/rate "Collection (in Internet Privacy Concern)"
+{
+  "item_quality_ratings": [
+    {
+      "item": "I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.",
+      "rating": 5,
+      "explanation": "This item directly assesses the construct of Collection, which is concerned with the gathering of personal information by commercial/government websites. The item is clear and concise, and it captures a key aspect of the construct."
+    },
+    {
+      "item": "I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.",
+      "rating": 5,
+      "explanation": "This item also directly addresses the Collection construct by focusing on the protection of personal information stored in website databases. It is a relevant and well-formulated item."
+    },
+    {
+      "item": "It usually bothers me when commercial/government websites ask me for personal information.",
+      "rating": 4,
+      "explanation": "This item is relevant to the Collection construct, as it captures the respondent's general discomfort with providing personal information to commercial/government websites. However, it is slightly less specific than the previous items."
+    },
+    {
+      "item": "It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.",
+      "rating": 5,
+      "explanation": "This item is well-aligned with the Collection construct, as it focuses on the respondent's concern about the use of their personal information by commercial/government websites. The item is clear and captures an important aspect of the construct."
+    },
+    {
+      "item": "I am concerned that commercial/government websites are collecting too much personal information about me",
+      "rating": 5,
+      "explanation": "This item directly addresses the core of the Collection construct by focusing on the respondent's concern about the amount of personal information being collected by commercial/government websites. It is a highly relevant and well-formulated item."
+    },
+    {
+      "item": "I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.",
+      "rating": 4,
+      "explanation": "This item is relevant to the Collection construct, as it captures the respondent's concern about the transparency of how personal information is collected and used. However, it is slightly less directly focused on the collection of information itself."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.",
+      "rating": 5,
+      "explanation": "This item is well-aligned with the Collection construct, as it focuses on the respondent's concern about the security measures taken by commercial/government websites to protect personal information from unauthorized access. It is a highly relevant and well-formulated item."
+    },
+    {
+      "item": "I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.",
+      "rating": 5,
+      "explanation": "This item addresses the respondent's concern about the potential misuse of personal information provided to commercial/government websites, which is a key aspect of the Collection construct. It is a well-crafted and relevant item."
+    },
+    {
+      "item": "I am concerned that commercial/government websites would share my personal information with other companies without my authorization.",
+      "rating": 5,
+      "explanation": "This item directly captures the respondent's concern about the unauthorized sharing of their personal information by commercial/government websites, which is a central aspect of the Collection construct. It is a highly relevant and well-formulated item."
+    },
+    {
+      "item": "It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.",
+      "rating": 5,
+      "explanation": "This item is well-aligned with the Collection construct, as it focuses on the respondent's concern about the transparency of how their personal information is collected, processed, and used by commercial/government websites. It is a highly relevant and well-formulated item."
+    },
+    {
+      "item": "I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.",
+      "rating": 4,
+      "explanation": "This item is somewhat related to the Collection construct, as it captures the respondent's concern about losing control over their personal information as a result of interacting with commercial/government websites. However, it is slightly less directly focused on the collection of information itself."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.",
+      "rating": 4,
+      "explanation": "This item is relevant to the Collection construct, as it addresses the respondent's concern about the accuracy of their personal information stored by commercial/government websites. However, it is slightly less directly focused on the collection of information itself."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.",
+      "rating": 4,
+      "explanation": "This item is also relevant to the Collection construct, as it captures the respondent's concern about the ability to correct errors in their personal information stored by commercial/government websites. However, it is slightly less directly focused on the collection of information itself."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.",
+      "rating": 4,
+      "explanation": "This item is relevant to the Collection construct, as it addresses the respondent's concern about the verification of the accuracy of their personal information stored by commercial/government websites. However, it is slightly less directly focused on the collection of information itself."
+    },
+    {
+      "item": "I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.",
+      "rating": 5,
+      "explanation": "This item directly captures the respondent's concern about the unauthorized sharing or selling of their personal information by commercial/government websites, which is a key aspect of the Collection construct. It is a highly relevant and well-formulated item."
+    },
+    {
+      "item": "When commercial/government websites ask me for personal information, I sometimes think twice before providing it.",
+      "rating": 4,
+      "explanation": "This item is relevant to the Collection construct, as it captures the respondent's general hesitation about providing personal information to commercial/government websites. However, it is slightly less specific than some of the other items."
+    },
+    {
+      "item": "It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.",
+      "rating": 5,
+      "explanation": "This item is well-aligned with the Collection construct, as it focuses on the respondent's concern about their lack of control over the collection, use, and sharing of their personal information by commercial/government websites. It is a highly relevant and well-formulated item."
+    },
+    {
+      "item": "It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.",
+      "rating": 5,
+      "explanation": "This item also directly addresses the respondent's concern about their lack of control over the personal information they provide to commercial/government websites, which is a key aspect of the Collection construct. It is a highly relevant and well-formulated item."
+    }
+  ]
+}
+

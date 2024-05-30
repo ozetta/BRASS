@@ -1,0 +1,69 @@
+======= /sort "Collection (in Internet Privacy Concern)" "Secondary Usage (in Internet Privacy Concern)" "Errors (in Internet Privacy Concern)" "Improper Access (in Internet Privacy Concern)" "Control (in Internet Privacy Concern)" "Awareness (in Internet Privacy Concern)"
+I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.
+It usually bothers me when commercial/government websites ask me for personal information.
+It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+I am concerned that commercial/government websites are collecting too much personal information about me
+I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.
+I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+I am concerned that commercial/government websites would share my personal information with other companies without my authorization.
+It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.
+I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.
+When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+json =======
+## Sorted Constructs and Items:
+
+```json
+{
+  "Collection": [
+    "I am concerned that commercial/government websites are collecting too much personal information about me.",
+    "It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used."
+  ],
+  "Secondary Usage": [
+    "I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.",
+    "I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies."
+  ],
+  "Errors": [
+    "I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.",
+    "I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.",
+    "I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases."
+  ],
+  "Improper Access": [
+    "I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.",
+    "I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.",
+    "I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information."
+  ],
+  "Control": [
+    "It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.",
+    "It usually bothers me when I do not have control of personal information that I provide to commercial/government websites."
+  ],
+  "Awareness": [
+    "It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.",
+    "I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites."
+  ]
+}
+```
+
+## Explanation:
+
+Based on your provided statements, I have categorized the items into the following constructs:
+
+* **Collection:** Concerns about the amount and methods of personal information collection by commercial/government websites.
+* **Secondary Usage:** Concerns about the potential misuse of personal information for purposes beyond the original reason for collection.
+* **Errors:** Concerns about the accuracy and correction of personal information held by commercial/government websites.
+* **Improper Access:** Concerns about unauthorized access to personal information stored by commercial/government websites.
+* **Control:** Concerns about the lack of control users have over their personal information once it is collected by commercial/government websites.
+* **Awareness:** Concerns about the lack of transparency and clarity regarding how personal information will be used by commercial/government websites. 
+
+This categorization reflects the underlying themes and anxieties expressed in your statements. For example, your concerns about excessive data collection, unauthorized access, and potential misuse all fall under the broader umbrella of "privacy concerns." 
+
+I hope this categorization helps you better understand your own concerns and anxieties regarding online privacy. 
+
+

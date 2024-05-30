@@ -1,0 +1,42 @@
+======= /seed 0
+/survey
+I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+It usually bothers me when commercial/government websites ask me for personal information.
+Please answer 'Agree' in this question.
+Please answer 'Strongly Disagree' in this question.
+I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.
+I am concerned that commercial/government websites would share my personal information with other companies without my authorization.
+I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+Please answer 'Somewhat Agree' in this question.
+Please answer 'Somewhat Disagree' in this question.
+I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.
+I am concerned that commercial/government websites are collecting too much personal information about me
+Please answer 'Neutral' in this question.
+I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+Please answer 'Disagree' in this question.
+I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.
+Please answer 'Strongly Agree' in this question.
+I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.
+It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+/persona student
+/fill =======
+/categorize-verbose
+Student: Based on the survey items provided, I would categorize my concerns about commercial/government websites as follows:
+
+1. Strongly Agree: Lack of procedures to correct errors in personal information.
+2. Agree: Concern about inaccurate personal information in databases, unauthorized access to personal information, and clear disclosure of data collection and use.
+3. Somewhat Agree: Concern about not having enough time and effort devoted to preventing unauthorized access to personal information.
+4. Neutral: Concern about collecting too much personal information and using it for other reasons.
+5. Disagree: Concern about not having control or autonomy over decisions about personal information collection, use, and sharing.
+6. Somewhat Disagree: Concern about not having control over personal information provided to websites.
+7. Strongly Disagree: Concern about websites using personal information for other reasons or selling it to other companies.
+
+Overall, the student appears to be most concerned about the accuracy and security of personal information collected by commercial/government websites, as well as the lack of transparency in data collection and use policies. They also express some concerns about having control over their personal information and its potential misuse.
+

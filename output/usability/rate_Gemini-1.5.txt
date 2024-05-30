@@ -1,0 +1,138 @@
+======= /rate "Collection (in Internet Privacy Concern)"
+I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.
+I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.
+It usually bothers me when commercial/government websites ask me for personal information.
+It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.
+I am concerned that commercial/government websites are collecting too much personal information about me
+I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.
+I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.
+I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.
+I am concerned that commercial/government websites would share my personal information with other companies without my authorization.
+It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.
+I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.
+I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.
+I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.
+I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.
+I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.
+When commercial/government websites ask me for personal information, I sometimes think twice before providing it.
+It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.
+It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.
+json =======
+```json
+{
+  "construct": "Collection (in Internet Privacy Concern)",
+  "items": [
+    "I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.",
+    "I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.",
+    "It usually bothers me when commercial/government websites ask me for personal information.",
+    "It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.",
+    "I am concerned that commercial/government websites are collecting too much personal information about me",
+    "I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.",
+    "I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.",
+    "I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.",
+    "I am concerned that commercial/government websites would share my personal information with other companies without my authorization.",
+    "It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.",
+    "I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.",
+    "I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.",
+    "I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.",
+    "I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.",
+    "I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.",
+    "When commercial/government websites ask me for personal information, I sometimes think twice before providing it.",
+    "It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.",
+    "It usually bothers me when I do not have control of personal information that I provide to commercial/government websites."
+  ],
+  "ratings": [
+    {
+      "item": "I am concerned that commercial/government websites do not take enough steps to make sure that unauthorized people cannot access my personal information in their computers.",
+      "rating": "good",
+      "explanation": "This item directly reflects the concern about the collection and security of personal information by websites."
+    },
+    {
+      "item": "I am concerned that commercial/government website databases that contain my personal information are not protected from unauthorized access.",
+      "rating": "good",
+      "explanation": "Similar to the previous item, this one focuses on the security aspect of data collection."
+    },
+    {
+      "item": "It usually bothers me when commercial/government websites ask me for personal information.",
+      "rating": "okay",
+      "explanation": "While this item touches upon the frequency of data collection, it doesn't explicitly address the concern about the amount or purpose of collection."
+    },
+    {
+      "item": "It usually bothers me when I am not aware or knowledgeable about how my personal information will be used by commercial/government websites.",
+      "rating": "good",
+      "explanation": "This item highlights the lack of transparency and control over how collected data is used."
+    },
+    {
+      "item": "I am concerned that commercial/government websites are collecting too much personal information about me",
+      "rating": "good",
+      "explanation": "This item directly addresses the concern about the excessive amount of data being collected."
+    },
+    {
+      "item": "I am concerned when a clear and conspicuous disclosure is not included in online privacy policies of commercial/government websites.",
+      "rating": "good",
+      "explanation": "This item relates to transparency and the user's right to be informed about data collection practices."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not devote enough time and effort to preventing unauthorized access to my personal information.",
+      "rating": "good",
+      "explanation": "This item emphasizes the concern about the security measures taken to protect collected data."
+    },
+    {
+      "item": "I am concerned that when I give personal information to a commercial/government website for some reason, the website would use the information for other reasons.",
+      "rating": "good",
+      "explanation": "This item addresses the concern about secondary use of data and the potential for misuse."
+    },
+    {
+      "item": "I am concerned that commercial/government websites would share my personal information with other companies without my authorization.",
+      "rating": "good",
+      "explanation": "This item highlights the concern about unauthorized third-party access to collected data."
+    },
+    {
+      "item": "It usually bothers me when commercial/government websites seeking my information online do not disclose the way the data are collected, processed, and used.",
+      "rating": "good",
+      "explanation": "This item emphasizes the lack of transparency in data collection and processing practices."
+    },
+    {
+      "item": "I am concerned when control is lost or unwillingly reduced as a result of a marketing transaction with commercial/government websites.",
+      "rating": "okay",
+      "explanation": "While this item touches upon control over personal information, it is more specific to marketing transactions and may not fully capture the broader concern about data collection."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not take enough steps to make sure that my personal information in their files is accurate.",
+      "rating": "good",
+      "explanation": "This item addresses the concern about data accuracy and the responsibility of websites to maintain accurate information."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not have adequate procedures to correct errors in my personal information.",
+      "rating": "good",
+      "explanation": "Similar to the previous item, this one focuses on the ability to rectify inaccurate data."
+    },
+    {
+      "item": "I am concerned that commercial/government websites do not devote enough time and effort to verifying the accuracy of my personal information in their databases.",
+      "rating": "good",
+      "explanation": "This item emphasizes the importance of data accuracy and the need for websites to actively ensure it."
+    },
+    {
+      "item": "I am concerned that commercial/government websites would sell my personal information in their computer databases to other companies.",
+      "rating": "good",
+      "explanation": "This item directly addresses the concern about the commercialization of personal data and unauthorized selling to third parties."
+    },
+    {
+      "item": "When commercial/government websites ask me for personal information, I sometimes think twice before providing it.",
+      "rating": "okay",
+      "explanation": "This item reflects a general cautiousness about providing personal information but doesn't explicitly mention the concern about the amount or purpose of collection."
+    },
+    {
+      "item": "It usually bothers me when I do not have control or autonomy over decisions about how my personal information is collected, used, and shared by commercial/government websites.",
+      "rating": "good",
+      "explanation": "This item highlights the lack of control and autonomy individuals feel regarding their personal information online."
+    },
+    {
+      "item": "It usually bothers me when I do not have control of personal information that I provide to commercial/government websites.",
+      "rating": "good",
+      "explanation": "Similar to the previous item, this one emphasizes the lack of control over personal information once it's shared with websites."
+    }
+  ]
+}
+```
+
